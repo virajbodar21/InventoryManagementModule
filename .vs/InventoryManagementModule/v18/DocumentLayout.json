@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|c:\\users\\viraj\\onedrive\\desktop\\cse\\.net\\inventorymanagementmodule\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEBEF5C-D46E-49B3-8804-8A8A3A4E4C32}|InventoryManagementModule.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:58:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-10-30T17:58:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2026-10-30T17:58:43.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T17:58:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:58:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Viraj\\OneDrive\\Desktop\\CSE\\.net\\InventoryManagementModule\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:58:44.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
